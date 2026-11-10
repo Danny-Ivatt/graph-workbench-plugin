@@ -1,6 +1,6 @@
 # Graph analytics workbench: plugin for Claude
 
-This repository is the marketplace for the graph analytics workbench's plugin. It is published automatically; don't edit it here.
+This repository is the marketplace for the graph analytics workbench's plugin. It is published automatically, and only the publisher can write to it, so pull requests can't be merged here. To report a problem with the plugin, open an issue.
 
 The plugin brings:
 - the workbench's connector;
