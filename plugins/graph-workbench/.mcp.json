@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "graph-workbench": {
+      "type": "http",
+      "url": "https://graph.dannyivatt.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "graph-workbench",
+  "displayName": "Graph analytics workbench",
+  "version": "1.0.0",
+  "description": "Work in the graph analytics workbench: projects, sources, an ontology and a versioned knowledge graph with evidence for every fact. Brings the workbench's connector, and helpers for the support check and for reviewing answers.",
+  "author": { "name": "Graph analytics workbench" },
+  "homepage": "https://graph.dannyivatt.com"
+}

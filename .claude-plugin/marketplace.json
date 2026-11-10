@@ -1,0 +1,12 @@
+{
+  "name": "graph-workbench",
+  "owner": { "name": "Graph analytics workbench" },
+  "metadata": { "description": "The graph analytics workbench's plugin for Claude." },
+  "plugins": [
+    {
+      "name": "graph-workbench",
+      "source": "./plugins/graph-workbench",
+      "description": "Work in the graph analytics workbench: its connector, and helpers for the support check and for reviewing answers."
+    }
+  ]
+}
