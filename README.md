@@ -9,7 +9,7 @@ The plugin brings:
 
 It holds no method of its own: each helper reads the workbench's guides, which come through the connector.
 
-To add it in Claude: Customize, then Plugins, then Add, then Add marketplace. Enter this repository, and turn on Sync automatically so updates arrive by themselves.
+To add it in Claude: Customize, then Plugins, then Add, then Add marketplace. Enter `Danny-Ivatt/graph-workbench-plugin`, and turn on Sync automatically so updates arrive by themselves. The plugin needs the workbench's connector signed in; adding the plugin offers it on its Connectors tab.
 
 In Claude Code:
 
